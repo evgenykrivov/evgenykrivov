@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Frontend Developer specializing in building modern web applications.
+## Frontend Developer specializing in building modern web applications.
 
 I'm Evgeny, a frontend developer specializing in building modern web applications. I have a passion for writing clean and high-quality code that is easily scalable. On my GitHub, you will find educational projects where I explore new technologies. I enjoy working on large projects with diverse technologies, as they provide an opportunity for extensive learning.
 
