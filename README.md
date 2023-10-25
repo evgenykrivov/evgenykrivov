@@ -9,7 +9,7 @@ I am always open to exciting projects and ready to contribute to the development
 If you have any questions or offers for collaboration, please don't hesitate to reach out to me:
 
 - Email: evgenytryzo@gmail.com
-- Telegram: @tryzo
+- Telegram: [@tryzo](https://t.me/tryzo)
 
 
 <!--
