@@ -4,10 +4,9 @@ I'm Evgeny, a frontend developer specializing in building modern web application
 
 To learn more about my skills and tools, feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/tryzo).
 
-I am always open to exciting projects and ready to contribute to the development of innovative products!
+I am always open to interesting projects and ready to contribute to the development of ideological products.
 
 If you have any questions or offers for collaboration, please don't hesitate to reach out to me:
-
 - Email: evgenytryzo@gmail.com
 - Telegram: [@tryzo](https://t.me/tryzo)
 
