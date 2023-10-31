@@ -10,8 +10,8 @@ If you have any questions or offers for collaboration, please don't hesitate to 
 - Email: evgenytryzo@gmail.com
 - Telegram: [@tryzo](https://t.me/tryzo)
 
-:-:
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenytryzo&theme=dark)****
+
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenytryzo&theme=dark)
 <!--
 **evgenytryzo/evgenytryzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
