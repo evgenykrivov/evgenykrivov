@@ -11,7 +11,7 @@ If you have any questions or offers for collaboration, please don't hesitate to 
 - Telegram: [@tryzo](https://t.me/tryzo)
 
 <p align="center">
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenytryzo&theme=dark)
+![Image of cat](https://github.com/blademoon/Markdown/blob/main/Picture/cat.jpg)
   </p>
 <!--
 **evgenytryzo/evgenytryzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
