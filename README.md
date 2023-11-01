@@ -9,8 +9,9 @@ I am always open to interesting projects and ready to contribute to the developm
 If you have any questions or offers for collaboration, please don't hesitate to reach out to me:
 - Email: evgenytryzo@gmail.com
 - Telegram: [@tryzo](https://t.me/tryzo)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evgenytryzo&theme=swift)
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evgenytryzo&theme=swift" alt="Statistic" width="90%">
+  </p>
 <!--
 **evgenytryzo/evgenytryzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
