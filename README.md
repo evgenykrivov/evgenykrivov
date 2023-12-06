@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/018b87a0-b895-4ac4-9450-6e2338a6c878.svg)](https://wakatime.com/@018b87a0-b895-4ac4-9450-6e2338a6c878)
 ### Hi there 👋
 
 I'm Evgeny, a frontend developer specializing in building modern web applications. I have a passion for writing clean and high-quality code that is easily scalable. On my GitHub, you will find educational projects where I explore new technologies. I enjoy working on large projects with diverse technologies, as they provide an opportunity for extensive learning.
@@ -12,7 +13,9 @@ If you have any questions or offers for collaboration, please don't hesitate to 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evgenytryzo&theme=swift" alt="Statistic" width="90%">
   </p>
+
 <!--
+
 **evgenytryzo/evgenytryzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
