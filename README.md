@@ -7,7 +7,7 @@ To learn more about my skills and tools, feel free to visit my [LinkedIn profile
 I am always open to interesting projects and ready to contribute to the development of ideological products.
 
 If you have any questions or offers for collaboration, please don't hesitate to reach out to me:
-- Email: evgenytryzo@yandex.ru
+- Email: evgenytryzo@gmail.com
 - Telegram: [@evgeny_krivov](https://t.me/evgeny_krivov)
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evgenytryzo&theme=swift" alt="Statistic" width="90%">
