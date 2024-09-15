@@ -16,7 +16,7 @@ If you have any questions or offers for collaboration, please don't hesitate to 
 
 <!--
 
-**evgenytryzo/evgenytryzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**evgenykrivov/evgenykrivov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
