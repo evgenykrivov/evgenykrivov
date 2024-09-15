@@ -9,8 +9,9 @@ I am always open to interesting projects and ready to contribute to the developm
 If you have any questions or offers for collaboration, please don't hesitate to reach out to me:
 - Email: evgenykrivov@outlook.com
 - Telegram: [@evgeny_krivov](https://t.me/evgeny_krivov)
+
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evgenykrivov&theme=swift" alt="Statistic" width="90%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evgenykrivov&theme=swift" alt="Statistic" width="100%">
   </p>
 
 <!--
