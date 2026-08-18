@@ -1,31 +1,17 @@
 ### Hi there 👋
 
-I'm Evgeny, a frontend developer specializing in building modern web applications. I have a passion for writing clean and high-quality code that is easily scalable. On my GitHub, you will find educational projects where I explore new technologies. I enjoy working on large projects with diverse technologies, as they provide an opportunity for extensive learning.
+I'm Evgeny, a Senior Full-Stack Developer specializing in **payments and billing infrastructure**.
 
-To learn more about my skills and tools, feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/evgenykrivov).
+I build and run payment systems end to end: PSP integrations and orchestration (Stripe, Primer, Airwallex, SolidGate, NMI), subscription billing, dunning and involuntary-churn recovery, fraud and chargeback management — plus the full-stack product work around them (TypeScript, React/Next.js, Go).
 
-I am always open to interesting projects and ready to contribute to the development of ideological products.
+Currently I own the payments domain at a fast-growing AI startup: multi-processor routing, failed-renewal recovery, and keeping approval rates healthy in a high-risk vertical. I like problems where engineering meets revenue — where a fixed retry policy or a cleaner checkout flow shows up directly in the numbers.
 
-If you have any questions or offers for collaboration, please don't hesitate to reach out to me:
+On my GitHub you'll find educational projects where I explore new technologies. To learn more about my experience, visit my [LinkedIn profile](https://www.linkedin.com/in/evgenykrivov).
+
+Always happy to talk payments, fintech, and complex integrations:
 - Email: evgenykrivov@outlook.com
 - Telegram: [@krivov_evgeny](https://t.me/krivov_evgeny)
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evgenykrivov&theme=swift" alt="Statistic" width="100%">
-  </p>
-
-<!--
-
-**evgenykrivov/evgenykrivov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
