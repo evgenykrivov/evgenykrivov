@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Evgeny, a Senior Full-Stack Developer specializing in **payments and billing infrastructure**.
+I'm Evgeny, a Senior Full-Stack Developer specializing in payments and billing infrastructure.
 
 I build and run payment systems end to end: PSP integrations and orchestration (Stripe, Primer, Airwallex, SolidGate, NMI), subscription billing, dunning and involuntary-churn recovery, fraud and chargeback management — plus the full-stack product work around them (TypeScript, React/Next.js, Go).
 
